@@ -1,0 +1,81 @@
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\map.tmx
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_down.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_left.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_right.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_up.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_one\Char_4_sides.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_down.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_left.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_right.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_up.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_down.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_left.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_right.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_up.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Attack\1.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Attack\2.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Attack\3.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Attack\4.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Char2_4sides.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_down.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_left.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_right.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_up.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Idle\playerSheetIdle.sf
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Idle\playerSheetIdle.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_down.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_left.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_right.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_up.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Walk\playerSheetWalk.sf
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Character\Char_two\Walk\playerSheetWalk.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\env.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Other\Blue_orb.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Other\Coin.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Other\Green_orb.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Other\Heart.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Other\Misc\Bush.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Other\Misc\Chest.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Other\Misc\Grass.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Other\Misc\Rock.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Other\Misc\Sign.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree_top.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree_trunk.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Other\Red_orb.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_down.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_left.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_right.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_up.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Skeleton\Skel_4Sides.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_down.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_left.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_right.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_up.xnb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\rpg.exe
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\rpg.deps.json
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\rpg.runtimeconfig.json
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\rpg.runtimeconfig.dev.json
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\rpg.dll
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\rpg.pdb
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Autofac.dll
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\MonoGame.Extended.dll
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\MonoGame.Extended.Graphics.dll
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\MonoGame.Extended.Tiled.dll
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\MonoGame.Framework.dll
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\Monogame\rpg\bin\Release\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\Monogame\rpg\obj\Release\netcoreapp3.1\rpg.AssemblyInfoInputs.cache
+D:\Monogame\rpg\obj\Release\netcoreapp3.1\rpg.AssemblyInfo.cs
+D:\Monogame\rpg\obj\Release\netcoreapp3.1\rpg.csproj.CoreCompileInputs.cache
+D:\Monogame\rpg\obj\Release\netcoreapp3.1\rpg.csproj.CopyComplete
+D:\Monogame\rpg\obj\Release\netcoreapp3.1\rpg.dll
+D:\Monogame\rpg\obj\Release\netcoreapp3.1\rpg.pdb
+D:\Monogame\rpg\obj\Release\netcoreapp3.1\rpg.genruntimeconfig.cache
