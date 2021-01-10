@@ -17,18 +17,26 @@ namespace rpg
         private TIlemapManager mapRenderer;
         private Player player;
         public List<Rectangle> collisionObjects;
+        Matrix matrix;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
+             
         }
 
         protected override void Initialize()
         {
-            _graphics.PreferredBackBufferWidth = 256;
-            _graphics.PreferredBackBufferHeight = 256;
+            _graphics.PreferredBackBufferWidth = 256*2;
+            _graphics.PreferredBackBufferHeight = 256*2;
             _graphics.ApplyChanges();
+            var width = _graphics.PreferredBackBufferWidth;
+            var height = _graphics.PreferredBackBufferHeight;
+            var windowSize = new Vector2(width,height);
+            var levelSize = new Vector2(256,256);
+            matrix = Matrix.CreateScale(new Vector3(windowSize/levelSize,1));
+            
             player = new Player();
             base.Initialize();
         }
@@ -76,8 +84,8 @@ namespace rpg
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
-            mapRenderer.Draw();
-            player.Draw(_spriteBatch);
+            mapRenderer.Draw(matrix);
+            player.Draw(_spriteBatch,matrix);
             // TODO: Add your drawing code here
 
             base.Draw(gameTime);

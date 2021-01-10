@@ -79,3 +79,4 @@ D:\Monogame\rpg\obj\Release\netcoreapp3.1\rpg.csproj.CopyComplete
 D:\Monogame\rpg\obj\Release\netcoreapp3.1\rpg.dll
 D:\Monogame\rpg\obj\Release\netcoreapp3.1\rpg.pdb
 D:\Monogame\rpg\obj\Release\netcoreapp3.1\rpg.genruntimeconfig.cache
+D:\Monogame\rpg\obj\Release\netcoreapp3.1\rpg.csprojAssemblyReference.cache

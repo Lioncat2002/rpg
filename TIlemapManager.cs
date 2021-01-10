@@ -30,10 +30,17 @@ namespace rpg
        
 
        
-        public void Draw()
+        public void Draw(Matrix matrix)
         {
 
-            spriteBatch.Begin();
+            spriteBatch.Begin(
+                SpriteSortMode.Deferred,
+                samplerState:SamplerState.PointClamp,
+                effect:null,
+                blendState:null,
+                rasterizerState:null,
+                depthStencilState:null,
+                transformMatrix:matrix);
             for (var j = 0; j < map.TileLayers.Count; j++)
             {
                 for (var i = 0; i < map.TileLayers[j].Tiles.Count; i++)

@@ -79,10 +79,17 @@ namespace rpg
             playerBounds.Y = (int)pos.Y-8;
             playerSprite[0].Update(gameTime);
         }
-        public void Draw(SpriteBatch spriteBatch)
+        public void Draw(SpriteBatch spriteBatch,Matrix matrix)
         {
-            spriteBatch.Begin();
-            if(isIdle)
+            spriteBatch.Begin(
+                SpriteSortMode.Deferred,
+                samplerState: SamplerState.PointClamp,
+                effect: null,
+                blendState: null,
+                rasterizerState: null,
+                depthStencilState: null,
+                transformMatrix: matrix);
+            if (isIdle)
             spriteBatch.Draw(playerSprite[0], pos);
             else
                 spriteBatch.Draw(playerSprite[1], pos);
